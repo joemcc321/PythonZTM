@@ -24,4 +24,4 @@ Python coding exercise files used to complete the Udemy course.
 * Section 18: Scraping Data with Python
 * Section 19: Web Development with Python
 * Section 20: Automation/Testing
-* Section 20: Machine Learning + Data Science
+* Section 21: Machine Learning + Data Science
