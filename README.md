@@ -1,4 +1,4 @@
-# *Complete Python Developer in 2020: Zero to Mastery*
+# *Complete Python Developer in 2021: Zero to Mastery*
 
 Python coding exercise files used to complete the Udemy course.
 
